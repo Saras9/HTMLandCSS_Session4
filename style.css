@@ -1,0 +1,90 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width:1400px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    padding: 25px 25px;
+    background-color:  rgb(32,92,84);
+}
+.logo_support{
+    font-size:22px;
+    color: white;
+}
+.header_nav{
+    color:white;
+    width: 12s00px;
+    margin-left:25px;
+    margin-top:5px;
+}
+.header_nav a{
+    text-decoration: none;
+    margin:0px 60px;
+    color:white;
+}
+.box1{
+    width:70%;
+    margin:auto;
+}
+.box1_1{
+    width:45%;
+    margin:auto;
+}
+.box1_1 img{
+    width:80%;
+}
+.box1_1 a{
+    text-decoration:none;
+    color: rgb(32,92,84);
+}
+.box1_1 a:hover{
+    text-decoration:underline;
+}
+.box2{
+    width:45%;
+    margin:auto;
+    font-size:larger;
+    background-color: rgb(161, 201, 195);
+    padding:25px;
+}
+.box2_1 a{
+    text-decoration: none;
+    color: rgb(32,92,84);
+}
+.box2_1 a:hover{
+    text-decoration: underline;
+}
+.box2_1 img{
+    width:80%;
+}
+.box3{
+    width:45%;
+    background-color:rgb(156, 154, 154);
+    padding:200px 25px;
+    font-size: larger;
+}
+.box3 h5{
+    color: rgb(226, 226, 226);
+}
+.header_btn{
+    margin-left:600px;
+    width:450px;
+}
+.header_btn a{
+    margin:10px 15px;
+    text-decoration: none;
+    font-size:16px;
+    padding: 12px 27px;
+    border-radius: 30px;
+   color: rgb(32,92,84);
+}
+.header_btn1{
+    border: 2px solid  rgb(92, 201, 186) ;
+    border-radius: 10px;
+}
